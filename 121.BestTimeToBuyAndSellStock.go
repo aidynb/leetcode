@@ -1,4 +1,4 @@
-package lc
+package leetcode
 
 func maxProfit(prices []int) int {
 	var profit int

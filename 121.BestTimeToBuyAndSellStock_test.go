@@ -1,4 +1,4 @@
-package lc
+package leetcode
 
 import "testing"
 

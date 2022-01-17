@@ -1,4 +1,4 @@
-package lc
+package leetcode
 
 func searchInsertPosition(nums []int, target int) int {
 	left := 0

@@ -1,4 +1,4 @@
-package lc
+package leetcode
 
 type stack struct {
 	stack  []rune
